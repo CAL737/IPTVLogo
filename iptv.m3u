@@ -43,8 +43,6 @@ http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
 http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/wyj484/onlyhktvlogo/raw/main/img/Jade.png" group-title="港澳代理",翡翠台
 http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
-#EXTINF:-1 tvg-name="翡翠台 backup" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠台.png" group-title="港澳代理",翡翠台 backup
-http://api.kkitv.itv888.vip:8080/streams/jutaw8wu0j9/index.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gitee.com/wyj484/onlyhktvlogo/raw/main/img/Pearl.png" group-title="港澳代理",明珠台
 http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gitee.com/wyj484/onlyhktvlogo/raw/main/img/Pearl.png" group-title="港澳代理",明珠台
