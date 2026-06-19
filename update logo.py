@@ -4,7 +4,7 @@ import os
 # --- 配置区域 ---
 INPUT_FILE = "iptv.m3u"  # 你的原始 m3u 文件名
 OUTPUT_FILE = "updated_iptv_gitee.m3u"        # 输出的新 m3u 文件名
-LOGO_BASE_URL = "https://gitee.com/wyj484/onlyhktvlogo/raw/main/img/"
+LOGO_BASE_URL = "https://gitee.com/wyj484/iptvlogo/raw/main/img/"
 
 # 从 televionlogo.md 提取的频道名到图片文件名的映射
 # 注意：这里使用的是 televionlogo.md 中的具体文件名

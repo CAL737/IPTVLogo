@@ -6,7 +6,7 @@ INPUT_M3U = "updated_iptv_gitee.m3u"                      # 你的原始 m3u 文
 OUTPUT_M3U = "iptv_with_logo_epg.m3u"       # 输出的新 m3u 文件名
 LOGO_MD = "televionlogo.md"                 # 你的 logo 映射文件
 EPG_URL = "http://epg.51zmt.top:8000/e2.xml.gz" # 你的 EPG 地址
-LOGO_BASE_URL = "https://gitee.com/wyj484/onlyhktvlogo/raw/main/img/"
+LOGO_BASE_URL = "https://gitee.com/wyj484/iptvlogo/raw/main/img/"
 
 def parse_logo_mapping(md_file):
     """
