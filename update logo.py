@@ -2,7 +2,7 @@ import re
 import os
 
 # --- 配置区域 ---
-INPUT_FILE = "filtered_iptv_fanmingming.m3u"  # 你的原始 m3u 文件名
+INPUT_FILE = "iptv.m3u"  # 你的原始 m3u 文件名
 OUTPUT_FILE = "updated_iptv_gitee.m3u"        # 输出的新 m3u 文件名
 LOGO_BASE_URL = "https://gitee.com/wyj484/onlyhktvlogo/raw/main/img/"
 
