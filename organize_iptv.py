@@ -1,7 +1,5 @@
 import os
 import re
-import requests
-import time
 
 # ================= 配置区 =================
 # Gitee 图床基础路径
@@ -13,94 +11,78 @@ EPG_URL_2 = "http://epg.51zmt.top:8000/e.xml"
 EPG_COMBINED = f'{EPG_URL_1},{EPG_URL_2}'
 
 # ================= 中英文频道名映射表 =================
-# 格式: "M3U中的中文频道名": "Gitee图片文件名(不含扩展名)"
-# 你可以继续添加更多映射
+# 根据你实际的图片库和IPTV源建立的精准映射
 CHANNEL_NAME_MAP = {
-    # 广东台
-    "广东卫视": "Guangdong Satellite TV",
-    "广东珠江": "Guangdong Pearl River",
-    "广东新闻": "Guangdong News",
-    "广东体育": "Guangdong Sports",
-    "广东公共": "Guangdong Public",
-    "广东少儿": "Guangdong Children",
-    "嘉佳卡通": "Qia Qia Cartoon",  # 你的音译
-    "广东民生": "Guangdong Minsheng",
-    "广东经济": "Guangdong Economy",
-    "广东影视": "Guangdong Film",
-    "广东4K": "Guangdong 4K",
-    "大湾区卫视": "Greater Bay Area TV",
-    "南方卫视": "Nanfang Satellite TV",
-    "南方经济": "Nanfang Economy",
-    "南方综艺": "Nanfang Variety",
-    "南方影视": "Nanfang Film",
-    "岭南戏曲": "Lingnan Opera",
-    "现代教育": "Modern Education",
+    # 凤凰卫视
+    "凤凰中文": "Phoenix TV Chinese Channel",
+    "凤凰资讯": "Phoenix TV Information Channel",
+    "凤凰香港": "Phoenix TV Hong Kong",
     
-    # 香港台
+    # 香港TVB
     "翡翠台": "Jade",
+    "华丽翡翠台": "AstroJade",
     "明珠台": "Pearl",
-    "J2": "J2",
     "TVB Plus": "TVB Plus",
     "无线新闻台": "TVB News",
-    "无线财经台": "TVB Finance",
-    "ViuTV": "ViuTV",
+    "无线新闻": "TVB News",
+    
+    # ViuTV
+    "ViuTV": "viutv",
     "ViuTVsix": "ViuTVsix",
+    
+    # HOY TV (原奇妙电视/开电视)
     "HOY TV": "HOY 77",
-    "HOY资讯台": "HOY 78",
-    "HKIBC": "HOY 76",
-    "港台电视31": "RTHK TV 31",
-    "港台电视32": "RTHK TV 32",
-    "港台电视33": "RTHK TV 33",
-    "港台电视34": "RTHK TV 34",
-    "港台电视35": "RTHK TV 35",
+    "HOY 77": "HOY 77",
+    "HOY 76": "HOY 76",
+    "HOY 78": "HOY 78",
+    "开电视": "HOY 77",
+    
+    # 广东台
+    "广东卫视": "Guangdong",
+    "广东卫视4K": "Guangdong 4K UHD",
+    "广东4K": "Guangdong 4K UHD",
+    "广东珠江": "Guangdong Zhujiang",
+    "珠江卫视": "Guangdong Zhujiang",
+    "广东新闻": "Guangdong News",
+    "广东体育": "Guangdong Sport",
+    "广东公共": "Guangdong People",
+    "广东少儿": "Guangdong Children",
+    "嘉佳卡通": "Qia Qia Cartoon",
+    "广东民生": "Guangdong House",
+    "广东经济科教": "Guangdong Economic Science and Education",
+    "广东影视": "Guangdong Movie",
+    "大湾区卫视": "Greater Bay Area",
+    "广东大湾区": "Greater Bay Area",
+    "岭南戏曲": "Lingnan Opera",
+    "广东国际": "Guangdong International",
+    "广东移动": "Guangdong Mobile",
+    "现代教育": "Guangdong Modern Education",
 }
 
 # 分组关键字
-GD_KEYWORDS = ["广东卫视", "广东珠江", "广东新闻", "广东体育", "广东公共", "广东少儿", "嘉佳卡通", "广东民生", "广东经济", "广东影视", "广东4K", "大湾区卫视", "南方卫视", "南方经济", "南方影视", "GDTV", "TVS"]
-HK_KEYWORDS = ["翡翠", "明珠", "J2", "TVB Plus", "无线新闻", "无线财经", "ViuTV", "ViuTVsix", "HOY", "开电视", "港台电视", "RTHK", "TVB"]
+GD_KEYWORDS = ["广东卫视", "广东珠江", "广东新闻", "广东体育", "广东公共", "广东少儿", "嘉佳卡通", "广东民生", "广东经济科教", "广东影视", "广东4K", "大湾区卫视", "岭南戏曲", "广东国际", "广东移动", "现代教育"]
+HK_KEYWORDS = ["翡翠", "明珠", "J2", "TVB Plus", "无线新闻", "ViuTV", "HOY", "开电视", "凤凰中文", "凤凰资讯", "凤凰香港"]
 # ===========================================
 
-def get_gitee_logo_url(channel_name):
+def get_english_name(m3u_channel_name):
     """
-    根据频道名，通过映射表找到英文文件名，然后构造并验证 Gitee 图片链接
+    根据 M3U 中的频道名，通过映射表获取英文文件名
+    支持精确匹配和模糊匹配
     """
-    # 1. 先在映射表中查找
-    english_name = CHANNEL_NAME_MAP.get(channel_name)
+    # 1. 精确匹配
+    if m3u_channel_name in CHANNEL_NAME_MAP:
+        return CHANNEL_NAME_MAP[m3u_channel_name]
     
-    # 2. 如果映射表没有，尝试使用原名（以防万一）
-    if not english_name:
-        english_name = channel_name
-    
-    # 常见的图片后缀
-    extensions = ['.png', '.jpg', '.ico', '.webp']
-    
-    # 尝试不同的文件名变体
-    candidates = [english_name]
-    
-    # 添加去除空格的版本
-    if " " in english_name:
-        candidates.append(english_name.replace(" ", ""))
-        candidates.append(english_name.replace(" ", "_"))
-        candidates.append(english_name.replace(" ", "-"))
-    
-    # 遍历所有可能的文件名组合
-    for name in candidates:
-        for ext in extensions:
-            file_url = f"{GITEE_BASE_URL}{name}{ext}"
+    # 2. 模糊匹配 (M3U频道名包含映射表中的关键字)
+    for cn_key, en_value in CHANNEL_NAME_MAP.items():
+        if cn_key in m3u_channel_name:
+            return en_value
             
-            try:
-                # 发送 HEAD 请求检查图片是否存在
-                response = requests.head(file_url, timeout=2)
-                if response.status_code == 200:
-                    return file_url
-            except:
-                continue
-                
     return None
 
 def set_group_and_logo(line, group_name):
     """
-    设置分组，并尝试替换 Logo
+    设置分组，并根据映射表直接拼接 Logo 链接
     """
     # 1. 设置分组
     if 'group-title=' in line:
@@ -114,16 +96,19 @@ def set_group_and_logo(line, group_name):
     else:
         return line, False
         
-    # 3. 尝试获取 Gitee Logo
-    logo_url = get_gitee_logo_url(channel_name)
+    # 3. 获取英文名并拼接 URL
+    english_name = get_english_name(channel_name)
     
-    if logo_url:
-        # 替换或插入 tvg-logo
-        if 'tvg-logo=' in line:
-            line = re.sub(r'tvg-logo="[^"]*"', f'tvg-logo="{logo_url}"', line)
-        else:
-            line = re.sub(r',', f' tvg-logo="{logo_url}",', line, count=1)
-        return line, True
+    if english_name:
+        # 尝试多种图片后缀
+        for ext in ['.png', '.jpg']:
+            logo_url = f"{GITEE_BASE_URL}{english_name}{ext}"
+            # 替换或插入 tvg-logo
+            if 'tvg-logo=' in line:
+                line = re.sub(r'tvg-logo="[^"]*"', f'tvg-logo="{logo_url}"', line)
+            else:
+                line = re.sub(r',', f' tvg-logo="{logo_url}",', line, count=1)
+            return line, True
     else:
         return line, False
 
@@ -132,7 +117,7 @@ def organize_iptv_gitee(input_file, output_file):
         print(f"❌ 错误: 找不到文件 '{input_file}'。")
         return
 
-    print(f"🚀 开始整理，正在连接 Gitee 图床验证图片...")
+    print(f"🚀 开始整理 IPTV 源...")
     print(f"📋 已加载 {len(CHANNEL_NAME_MAP)} 个中英文频道映射关系")
 
     lines = []
@@ -149,7 +134,7 @@ def organize_iptv_gitee(input_file, output_file):
     logo_count = 0
     gd_count = 0
     hk_count = 0
-    not_found_channels = []  # 记录未找到图片的频道
+    not_found_channels = []  
     
     # 逐行解析
     for i in range(1, len(lines)): 
@@ -170,7 +155,6 @@ def organize_iptv_gitee(input_file, output_file):
                 if replaced: 
                     logo_count += 1
                 else:
-                    # 记录未找到图片的频道
                     if ',' in line:
                         ch_name = line.split(',')[-1].strip()
                         if ch_name not in not_found_channels:
@@ -213,24 +197,23 @@ def organize_iptv_gitee(input_file, output_file):
         for line in extracted_lines:
             f.write(line + '\n')
             
-    print(f"\n✅ 整理完成！")
+    print(f"\n✅ 整理完成！(极速模式)")
     print(f"📺 共提取 {total_count} 个频道")
     print(f"   ├─ 广东广播电视台: {gd_count} 个")
     print(f"   └─ 香港免费地面波: {hk_count} 个")
     print(f"🖼️ 成功匹配并替换了 {logo_count} 个频道的台徽")
     
     if not_found_channels:
-        print(f"\n⚠️ 以下 {len(not_found_channels)} 个频道未在 Gitee 找到对应图片:")
-        for ch in not_found_channels[:10]:  # 只显示前10个
+        print(f"\n⚠️ 以下 {len(not_found_channels)} 个频道未找到对应台徽:")
+        for ch in not_found_channels:
             print(f"   - {ch}")
-        if len(not_found_channels) > 10:
-            print(f"   ... 还有 {len(not_found_channels) - 10} 个")
-        print(f"\n💡 建议: 请在 CHANNEL_NAME_MAP 中添加这些频道的映射关系")
+        print(f"\n💡 建议: 请在 CHANNEL_NAME_MAP 中补充映射关系")
     
     print(f"\n💾 已保存至: {output_file}")
+    print(f"\n📝 提示: 生成的 M3U 文件已嵌入双 EPG 链接，台徽指向你的 Gitee 图床")
 
 if __name__ == "__main__":
-    INPUT_FILE = "ipv4.m3u"               
-    OUTPUT_FILE = "my_iptv_gitee_logo.m3u" 
+    INPUT_FILE = "iptv.m3u"               
+    OUTPUT_FILE = "my_iptv_organized.m3u" 
     
     organize_iptv_gitee(INPUT_FILE, OUTPUT_FILE)
