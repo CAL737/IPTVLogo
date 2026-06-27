@@ -1,13 +1,19 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e2.xml.gz,http://epg.51zmt.top:8000/e.xml"
 
-#香港免费地面波
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Phoenix TV Chinese Channel.png" group-title="香港免费地面波",凤凰中文
+#凤凰卫视卫星台
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Phoenix TV Chinese Channel.png" group-title="凤凰卫视卫星台",凤凰卫视中文台
 http://r.jdshipin.com/cCCzW
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Phoenix TV Information Channel.png" group-title="香港免费地面波",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Phoenix TV Information Channel.png" group-title="凤凰卫视卫星台",凤凰卫视资讯台
 http://r.jdshipin.com/0Rp07
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Phoenix TV Hong Kong.png" group-title="香港免费地面波",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Phoenix TV Hong Kong.png" group-title="凤凰卫视卫星台",凤凰卫视香港台
 http://r.jdshipin.com/yDoTN
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Phoenix TV Hong Kong.png" group-title="香港免费地面波",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Phoenix TV Hong Kong.png" group-title="凤凰卫视卫星台",凤凰卫视香港台
+http://r.jdshipin.com/NfC0f
+
+#香港免费地面波
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Phoenix TV Hong Kong.png" group-title="香港免费地面波",凤凰卫视香港台85
+http://r.jdshipin.com/yDoTN
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Phoenix TV Hong Kong.png" group-title="香港免费地面波",凤凰卫视香港台85
 http://r.jdshipin.com/NfC0f
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Jade Cable Edition.png" group-title="香港免费地面波",翡翠台
 http://r.jdshipin.com/qClQf
