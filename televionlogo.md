@@ -6,4 +6,4 @@
 | 翡翠台 | <img src="https://gitee.com/wyj484/iptvlogo/raw/main/img/Jade.png" width="100"> | 明珠台 | <img src="https://gitee.com/wyj484/iptvlogo/raw/main/img/Pearl.png" width="100"> |
 | TVB Plus | <img src="https://gitee.com/wyj484/iptvlogo/raw/main/img/TVB Plus.png" width="100"> | 无线新闻 | <img src="https://gitee.com/wyj484/iptvlogo/raw/main/img/TVB News.png" width="100"> |
 | ViuTV | <img src="https://gitee.com/wyj484/iptvlogo/raw/main/img/viutv.png" width="100"> | ViuTVsix | <img src="https://gitee.com/wyj484/iptvlogo/raw/main/img/ViuTVsix.png" width="100"> |
-| HOY TV | <img src="https://gitee.com/wyj484/iptvlogo/raw/main/img/HOY 77.png" width="100"> | 华丽翡翠台 | <img src="https://gitee.com/wyj484/iptvlogo/raw/main/img/Jade.png" width="100"> |
+| HOY TV | <img src="https://gitee.com/wyj484/iptvlogo/raw/main/img/HOY 77.png" width="100"> | 华丽翡翠台 | <img src="https://gitee.com/wyj484/iptvlogo/raw/main/img/AstroJade.png" width="100"> |

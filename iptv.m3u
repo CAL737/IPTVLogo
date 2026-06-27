@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e2.xml.gz,http://epg.51zmt.top:8000/e.xml"
+
+#香港免费地面波
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Phoenix TV Chinese Channel.png" group-title="香港免费地面波",凤凰中文
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Phoenix TV Information Channel.png" group-title="香港免费地面波",凤凰资讯
@@ -33,22 +35,10 @@ http://r.jdshipin.com/thuYX
 http://r.jdshipin.com/vSJvl
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/viutv.png" group-title="香港免费地面波",ViuTV
 http://r.jdshipin.com/TcKr2
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/HOY 77.png" group-title="香港免费地面波",HOY TV
+#EXTINF:-1 tvg-name="HOY 77" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/HOY 77.png" group-title="香港免费地面波",HOY 77
 http://r.jdshipin.com/sFw4S
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Phoenix TV Chinese Channel.png" group-title="香港免费地面波",凤凰中文
-http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Phoenix TV Information Channel.png" group-title="香港免费地面波",凤凰资讯
-http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Phoenix TV Hong Kong.png" group-title="香港免费地面波",凤凰香港
-http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Jade.png" group-title="香港免费地面波",翡翠台
-http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Pearl.png" group-title="香港免费地面波",明珠台
-http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Pearl.png" group-title="香港免费地面波",明珠台
-http://iptv.4666888.xyz/iptv2A.php?id=29
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Jade.png" group-title="香港免费地面波",翡翠台
-http://iptv.4666888.xyz/iptv2A.php?id=34
+
+#广东广播电视台
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Guangdong 4K UHD.png" http-user-agent="aliplayer" group-title="广东广播电视台",广东卫视4K
 http://101.35.240.114:88/live.php?id=广东卫视4K
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Guangdong.png" group-title="广东广播电视台",广东卫视
