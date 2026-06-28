@@ -45,17 +45,17 @@ http://r.jdshipin.com/TcKr2
 http://r.jdshipin.com/sFw4S
 
 #广东广播电视台
-#EXTINF:-1 tvg-id="GDTV.GDWS" tvg-name="广东卫视" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Guangdong.png" group-title="广东广播电视台",广东卫视
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Guangdong.png" group-title="广东广播电视台",广东卫视
 http://t.061899.xyz/tl/tl.php?id=gdws
-#EXTINF:-1 tvg-id="GDTV.GDWS2" tvg-name="广东卫视" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Guangdong.png" group-title="广东广播电视台",广东卫视
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Guangdong.png" group-title="广东广播电视台",广东卫视
 http://112.27.235.94:8000/hls/30/index.m3u8
-#EXTINF:-1 tvg-id="GDTV.GDZJ" tvg-name="广东珠江" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Guangdong Zhujiang.png" group-title="广东广播电视台",广东珠江
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Guangdong Zhujiang.png" group-title="广东广播电视台",广东珠江
 http://r.jdshipin.com/sE5vO
-#EXTINF:-1 tvg-id="GDTV.GDZJ2" tvg-name="广东珠江" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Guangdong Zhujiang.png" group-title="广东广播电视台",广东珠江
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Guangdong Zhujiang.png" group-title="广东广播电视台",广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-#EXTINF:-1 tvg-id="GDTV.GDTY" tvg-name="广东体育" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Guangdong Sport.png" group-title="广东广播电视台",广东体育
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Guangdong Sport.png" group-title="广东广播电视台",广东体育
 http://r.jdshipin.com/LiYdg
-#EXTINF:-1 tvg-id="GDTV.GDTY2" tvg-name="广东体育" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Guangdong Sport.png" group-title="广东广播电视台",广东体育
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Guangdong Sport.png" group-title="广东广播电视台",广东体育
 http://cdn2.163189.xyz/live/gdty/stream.m3u8
-#EXTINF:-1 tvg-id="GDTV.DWQ" tvg-name="大湾区卫视" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Greater Bay Area.png" group-title="广东广播电视台",大湾区卫视
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Greater Bay Area.png" group-title="广东广播电视台",大湾区卫视
 http://222.128.55.152:9080/live/dwq.m3u8
