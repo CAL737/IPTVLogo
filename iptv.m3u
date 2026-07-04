@@ -27,6 +27,10 @@ http://r.jdshipin.com/qrfbg
 http://r.jdshipin.com/62WM7
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Jade.png" group-title="香港免费地面波",翡翠台(测试)
 http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Jade.png" group-title="香港免费地面波",翡翠台（字幕）(测试)
+https://live.catvod.com/iptv.php?id=fctsub
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Jade.png" group-title="香港免费地面波",翡翠台（字幕）(测试)
+http://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Pearl.png" group-title="香港免费地面波",明珠台
 http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Pearl.png" group-title="香港免费地面波",明珠台
