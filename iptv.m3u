@@ -1,16 +1,16 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e2.xml.gz,http://epg.51zmt.top:8000/e.xml"
 
 #香港免费地面波
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Jade.png" group-title="香港免费地面波",翡翠台（720P）（测试）
+http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="J2" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/TVB Plus.png" group-title="香港免费地面波",TVB Plus（720P）（测试）
+https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/viutv.png" group-title="香港免费地面波",无线新闻台 （1080P）（测试）
+http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/viutv.png" group-title="香港免费地面波",ViuTV （1080P）（测试）
+http://push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
 
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Jade.png" group-title="香港免费地面波",翡翠台(测试)
-http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Jade.png" group-title="香港免费地面波",翡翠台（字幕）(测试)
-https://live.catvod.com/iptv.php?id=fctsub
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Jade.png" group-title="香港免费地面波",翡翠台（字幕）(测试)
-http://o11.163189.xyz/stream/tvb/fct/
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/viutv.png" group-title="香港免费地面波",ViuTV
-http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
 
 #测试频道
-#EXTINF:-1 tvg-id="GDTV" tvg-name="Test Channel" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/onedrive.png" group-title="测试频道",测试频道
+#EXTINF:-1 tvg-name="Test Channel" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/onedrive.png" group-title="测试频道",测试频道
 https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/93/27/38111872793/38111872793-1-192.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&trid=6729189726074b18b7cc443dad4f5a0O&mid=0&gen=playurlv3&os=estghw&uipk=5&deadline=1782752374&oi=2016429004&og=hw&nbs=1&platform=html5&upsig=e89bfb4406b783c58c64d47ed576cc6c&uparams=e,trid,mid,gen,os,uipk,deadline,oi,og,nbs,platform&bvc=vod&nettype=1&bw=716794&lrs=0&f=O_0_0&agrr=0&buvid=&build=7330300&dl=0&orderid=0,3
