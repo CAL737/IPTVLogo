@@ -8,7 +8,7 @@ http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
 https://live.catvod.com/iptv.php?id=fctsub
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Jade.png" group-title="香港免费地面波",翡翠台（字幕）(测试)
 http://o11.163189.xyz/stream/tvb/fct/
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/ViuTV.png" group-title="香港免费地面波",ViuTV
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/viutv.png" group-title="香港免费地面波",ViuTV
 http://o11.163189.xyz/stream/tvb/fct/
 
 #测试频道
