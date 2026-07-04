@@ -1,15 +1,28 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e2.xml.gz,http://epg.51zmt.top:8000/e.xml"
 
 #香港免费地面波
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Jade.png" group-title="香港免费地面波",翡翠台（720P）（测试）
+#EXTINF:-1 tvg-name="HOY国际财经台" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/HOY 76.png" group-title="香港免费地面波",HOY 76 （1080P）（测试）
+https://cdn.qd.je/163189.php?id=hoy76
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/HOY 77.png" group-title="香港免费地面波",HOY 77 （1080P）（测试）
+http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
+#EXTINF:-1 tvg-name="HOY 资讯台" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/HOY 78.png" group-title="香港免费地面波",HOY 78 （1080P）（测试）
+http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Jade.png" group-title="香港免费地面波",翡翠台 广东有线版（720P）（测试）
 http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="J2" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/TVB Plus.png" group-title="香港免费地面波",TVB Plus（720P）（测试）
 https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/TVB News.png" group-title="香港免费地面波",无线新闻台 （1080P）（测试）
 http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Pearl.png" group-title="香港免费地面波",明珠台 广东有线？ （1080P）（测试）
+http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/ViuTV.png" group-title="香港免费地面波",ViuTV （1080P）（测试）
 http://push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
 
+#广东广播电视台
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Guangdong 4K UHD.png" group-title="广东广播电视台",广东卫视 （4K）（测试）
+https://live.264788.xyz/channel/guangdongweishi4k?streamid=33aeafbb59f2bcb1877c3a8229c0135b&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/Guangdong Zhujiang.png" group-title="广东广播电视台",广东珠江 （1080P）（测试）
+http://gxyd.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=2
 
 #测试频道
 #EXTINF:-1 tvg-name="Test Channel" tvg-logo="https://gitee.com/wyj484/iptvlogo/raw/main/img/onedrive.png" group-title="测试频道",测试频道
