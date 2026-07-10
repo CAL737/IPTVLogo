@@ -1,19 +1,19 @@
 #EXTM3U x-tvg-url="http:/epg.51zmt.top:8000/e2.xml.gz,http:/epg.51zmt.top:8000/e.xml"
 
 #香港频道
-#EXTINF:-1 tvg-name="HOY国际财经台" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/HOY 76.png" group-title="香港频道",HOY 76 （1080P）（测试）
+#EXTINF:-1 tvg-name="HOY国际财经台" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/HOY76.png" group-title="香港频道",HOY 76 （1080P）（测试）
 https://cdn.qd.je/163189.php?id=hoy76
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/HOY 77.png" group-title="香港频道",HOY 77 （1080P）（测试）
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/HOY77.png" group-title="香港频道",HOY 77 （1080P）（测试）
 http:/push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
-#EXTINF:-1 tvg-name="HOY 资讯台" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/HOY 78.png" group-title="香港频道",HOY 78 （1080P）（测试）
+#EXTINF:-1 tvg-name="HOY 资讯台" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/HOY78.png" group-title="香港频道",HOY 78 （1080P）（测试）
 http:/push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/Jade.png" group-title="香港频道",翡翠台（1080P）（测试）
 http:/push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/Jade.png" group-title="香港频道",翡翠台 广东有线版（720P）（测试）
 http:/116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="J2" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/TVB Plus.png" group-title="香港频道",TVB Plus（720P）（测试）
+#EXTINF:-1 tvg-name="J2" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/TVBPlus.png" group-title="香港频道",TVB Plus（720P）（测试）
 https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/TVB News.png" group-title="香港频道",无线新闻台 （1080P）（测试）
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/TVBNews.png" group-title="香港频道",无线新闻台 （1080P）（测试）
 http:/push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/Pearl.png" group-title="香港频道",明珠台（720P）（测试）
 http:/116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv
@@ -31,15 +31,15 @@ https://cdn.qd.je/163189.php?id=tvb1
 #EXTINF:-1 tvg-name="TVBJ1" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/TVBJ1.png" group-title="TVBUSA",TVBJ1（1080P）（测试）
 
 #广东广播电视台
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/Guangdong 4K UHD.png" group-title="广东广播电视台",广东卫视 （4K）（测试）
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/GuangdongUHD.png" group-title="广东广播电视台",广东卫视 （4K）（测试）
 https://live.264788.xyz/channel/guangdongweishi4k?streamid=33aeafbb59f2bcb1877c3a8229c0135b&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/Guangdong.png" group-title="广东广播电视台",广东卫视 （模拟电视576i）（测试）
 http:/112.46.85.60:8009/hls/36/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/Guangdong.png" group-title="广东广播电视台",广东卫视 （1080P）（测试）
 https://live.264788.xyz/channel/guangdongweishi?streamid=cb79f80b1c81ba01a6cc0f96cb127c4a&livekey=01Wb7kjxu1xx2f7s4uEtWDnhgEQQECTlBWih6
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/Guangdong Zhujiang.png" group-title="广东广播电视台",广东珠江 （1080P）（测试）
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/GuangdongZhujiang.png" group-title="广东广播电视台",广东珠江 （1080P）（测试）
 http:/gxyd.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=2
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/Greater Bay Area.png" group-title="广东广播电视台",大湾区卫视 （480P）（测试）
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/GreaterBayArea.png" group-title="广东广播电视台",大湾区卫视 （480P）（测试）
 http:/120.198.160.88:1234/608917627
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/Greater Bay Area.png" group-title="广东广播电视台",大湾区卫视 （1080P）（测试）
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/GreaterBayArea.png" group-title="广东广播电视台",大湾区卫视 （1080P）（测试）
 http:/gxyd.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=2
