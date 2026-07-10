@@ -4,9 +4,9 @@
 #EXTINF:-1 tvg-name="HOY国际财经台" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/HOY76.png" group-title="香港频道",HOY 76 （1080i）（测试）
 https://cdn.qd.je/163189.php?id=hoy76
 #EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/HOY77.png" group-title="香港频道",HOY 77 （1080i）（测试）
-http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
+https://cdn.qd.je/163189.php?id=hoy
 #EXTINF:-1 tvg-name="HOY 资讯台" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/HOY78.png" group-title="香港频道",HOY 78 （1080i）（测试）
-http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
+https://cdn.qd.je/163189.php?id=hoy78
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/Jade.png" group-title="香港频道",翡翠台（1080i）（测试）
 https://cdn.qd.je/163189.php?id=fct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/Jade.png" group-title="香港频道",翡翠台 广东有线版（720P）（测试）
@@ -22,7 +22,7 @@ http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/AstroJade.png" group-title="香港频道",华丽翡翠台（1080i）（测试）
 https://cdn.qd.je/163189.php?id=jade
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/ViuTV.png" group-title="香港频道",ViuTV （1080i）（测试）
-http://push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
+https://cdn.qd.je/163189.php?id=viu
 #EXTINF:-1 tvg-name="ViuTVsix" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/ViuTVsix.png" group-title="香港频道",ViuTVsix （1080i）（测试）
 https://cdn.qd.je/163189.php?id=viu6
 
