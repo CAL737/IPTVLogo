@@ -19,7 +19,6 @@ http:/push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
 http:/116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/AstroJade.png" group-title="香港频道",华丽翡翠台（1080P）（测试）
 https://cdn.qd.je/163189.php?id=jade
-https://cdn.qd.je/163189.php?id=j1
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/ViuTV.png" group-title="香港频道",ViuTV （1080P）（测试）
 http:/push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
 #EXTINF:-1 tvg-name="ViuTVsix" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/ViuTVsix.png" group-title="香港频道",ViuTVsix （1080P）（测试）
