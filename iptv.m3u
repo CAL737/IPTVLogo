@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e2.xml.gz,http://epg.51zmt.top:8000/e.xml"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e2.xml.gz"
 
 #香港频道
 #EXTINF:-1 tvg-name="HOY国际财经台" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/HOY76.png" group-title="香港频道",HOY 76 （1080i）（测试）
@@ -17,12 +17,12 @@ https://cdn.qd.je/163189/fct4k
 http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/Jade.png" group-title="香港频道",翡翠台（模拟电视576i）（测试）
 http:///120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="J2" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/TVBPlus.png" group-title="香港频道",TVB Plus（720P）（测试）
+#EXTINF:-1 tvg-name="J2" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/TVBPlus.png" group-title="香港频道",TVB Plus（1080i）（测试）
 https://cdn.qd.je/163189/tvbp
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/TVBNews.png" group-title="香港频道",无线新闻台 （1080i）（测试）
 https://cdn.qd.je/163189.php?id=wxxw
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/Pearl.png" group-title="香港频道",明珠台（720P）（测试）
-http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/Pearl.png" group-title="香港频道",明珠台（1080i）（测试）
+https://cdn.qd.je/163189/mzt
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/AstroJade.png" group-title="香港频道",华丽翡翠台（1080i）（测试）
 https://cdn.qd.je/163189.php?id=jade
 #EXTINF:-1 tvg-name="功夫台" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/TVBAsianAction.png" group-title="香港频道",功夫台（720P）（测试）
