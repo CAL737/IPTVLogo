@@ -11,14 +11,8 @@ https://cdn.qd.je/163189.php?id=hoy76
 https://cdn.qd.je/163189.php?id=hoy
 #EXTINF:-1 tvg-name="HOY 资讯台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/IPTVLogo/main/img/HOY78.png" group-title="香港频道",HOY 78 （1080i）
 https://cdn.qd.je/163189.php?id=hoy78
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/IPTVLogo/main/img/Jade.png" group-title="香港频道",翡翠台（1080i）
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/IPTVLogo/main/img/Jade.png" group-title="香港频道",翡翠台 广东有线版（1080i）
 https://cdn.qd.je/163189/fct
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/IPTVLogo/main/img/Jade.png" group-title="香港频道",翡翠台（1080i）
-https://cdn.qd.je/163189/fct
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/IPTVLogo/main/img/Jade.png" group-title="香港频道",翡翠台（4K）
-https://cdn.qd.je/163189/fct4k
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/IPTVLogo/main/img/Jade.png" group-title="香港频道",翡翠台 广东有线版（720P）
-http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/IPTVLogo/main/img/Jade.png" group-title="香港频道",翡翠台（模拟电视576i）
 http:///120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="J2" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/IPTVLogo/main/img/TVBPlus.png" group-title="香港频道",TVB Plus（1080i）
@@ -35,6 +29,8 @@ https://cdn.qd.je/163189/yzwx
 https://cdn.qd.je/163189/tvbxh
 #EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/IPTVLogo/main/img/TVBeNews.png" group-title="香港频道",娱乐新闻台（1080P）
 https://cdn.qd.je/163189/ylxw
+#EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/TVBJ1.png" group-title="香港频道",娱乐新闻台（1080P）
+https://cdn.qd.je/163189/j1
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/ViuTV.png" group-title="香港频道",ViuTV （1080i）
 https://cdn.qd.je/163189.php?id=viu
 #EXTINF:-1 tvg-name="ViuTVsix" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/IPTVLogo/main/img/ViuTVsix.png" group-title="香港频道",ViuTVsix （1080i）
@@ -45,8 +41,6 @@ https://cdn.qd.je/163189.php?id=viu6
 https://cdn.qd.je/163189/tvbd
 #EXTINF:-1 tvg-name="TVB1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/IPTVLogo/main/img/TVB1.png" group-title="TVBUSA",TVB 1（1080i）
 https://cdn.qd.je/163189/tvb1
-#EXTINF:-1 tvg-name="TVBJ1" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/TVBJ1.png" group-title="TVBUSA",TVB J1（1080i）
-https://cdn.qd.je/163189/j1
 
 
 #广东广播电视台
