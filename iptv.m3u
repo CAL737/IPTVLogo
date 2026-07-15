@@ -41,6 +41,8 @@ https://cdn.qd.je/163189.php?id=viu6
 https://cdn.qd.je/163189/tvbd
 #EXTINF:-1 tvg-name="TVB1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/IPTVLogo/main/img/TVB1.png" group-title="TVBUSA",TVB 1（1080i）
 https://cdn.qd.je/163189/tvb1
+#EXTINF:-1 tvg-name="TVBJ1" tvg-logo="https://raw.githubusercontent.com/CAL737/IPTVLogo/main/img/TVBJ1.png" group-title="TVBUSA",TVB J1（1080i）
+https://cdn.qd.je/163189/j1
 
 
 #广东广播电视台
