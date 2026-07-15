@@ -37,7 +37,7 @@ https://cdn.qd.je/163189.php?id=viu6
 #TVBUSA
 #EXTINF:-1 tvg-name="TVBDrama" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/TVBDrama.png" group-title="TVBUSA",TVB Drama（1080i）
 https://cdn.qd.je/163189/tvbd
-#EXTINF:-1 tvg-name="TVB1" tvg-logo="" group-title="TVBUSA",TVB 1（1080i）
+#EXTINF:-1 tvg-name="TVB1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/TVB1.png" group-title="TVBUSA",TVB 1（1080i）
 https://cdn.qd.je/163189/tvb1
 #EXTINF:-1 tvg-name="TVBJ1" tvg-logo="https://raw.githubusercontent.com/CAL737/TVlogo/main/img/TVBJ1.png" group-title="TVBUSA",TVB J1（1080i）
 https://cdn.qd.je/163189/j1
