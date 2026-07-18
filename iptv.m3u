@@ -73,3 +73,8 @@ https://cdn.qd.je/163189.php?id=gdzj
 http://120.198.160.88:1234/608917627
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/GreaterBayArea.png" group-title="广东广播电视台",大湾区卫视 （1080P）
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=2
+
+
+#测试频道
+#EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="测试频道",测试频道
+https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8
