@@ -23,19 +23,19 @@ https://cdn.qd.je/163189.php?id=hoy76
 https://cdn.qd.je/163189.php?id=hoy
 #EXTINF:-1 tvg-name="HOY 资讯台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/HOY78.png" group-title="香港频道",HOY 78 （1080i）
 https://cdn.qd.je/163189.php?id=hoy78
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/Jade.png" group-title="香港频道",翡翠台（1080i）
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/Jade.png" group-title="香港频道",翡翠台 81（1080i）
 https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/Jade.png" group-title="香港频道",翡翠台 广东有线版（1080i）
 https://cdn.qd.je/163189/fct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/Jade.png" group-title="香港频道",翡翠台（模拟电视576i）
 http:///120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="J2" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/TVBPlus.png" group-title="香港频道",TVB Plus（1080i）
+#EXTINF:-1 tvg-name="J2" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/TVBPlus.png" group-title="香港频道",TVB Plus 82（1080i）
 https://cdn.qd.je/163189/tvbp
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/TVBNews.png" group-title="香港频道",无线新闻台 （1080i）
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/TVBNews.png" group-title="香港频道",无线新闻台 83（1080i）
 https://cdn.qd.je/163189.php?id=wxxw
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/Pearl.png" group-title="香港频道",明珠台（1080i）
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/Pearl.png" group-title="香港频道",明珠台 84（1080i）
 https://cdn.qd.je/163189/mzt
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/PhoenixHongKong.png" group-title="香港频道",凤凰卫视香港台（1080i）
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/PhoenixHongKong.png" group-title="香港频道",凤凰卫视香港台 85（1080i）
 https://cdn.qd.je/163189/fhhk
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/AstroJade.png" group-title="香港频道",华丽翡翠台（1080i）
 https://cdn.qd.je/163189.php?id=jade
@@ -45,9 +45,9 @@ https://cdn.qd.je/163189/yzwx
 https://cdn.qd.je/163189/tvbxh
 #EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/TVBeNews.png" group-title="香港频道",娱乐新闻台（1080P）
 https://cdn.qd.je/163189/ylxw
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/CAL737/TVlogo/main/img/ViuTV.png" group-title="香港频道",ViuTV （1080i）
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/CAL737/TVlogo/main/img/ViuTV.png" group-title="香港频道",ViuTV 99（1080i）
 https://cdn.qd.je/163189.php?id=viu
-#EXTINF:-1 tvg-name="ViuTVsix" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/ViuTVsix.png" group-title="香港频道",ViuTVsix （1080i）
+#EXTINF:-1 tvg-name="ViuTVsix" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/ViuTVsix.png" group-title="香港频道",ViuTVsix 96（1080i）
 https://cdn.qd.je/163189.php?id=viu6
 
 
