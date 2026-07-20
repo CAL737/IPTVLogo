@@ -30,7 +30,7 @@ https://cdn.qd.je/163189/fct
 http:///120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/TVBPlus.png" group-title="香港频道",TVB Plus 82（1080i）
 https://cdn.qd.je/163189/tvbp
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/TVBNews.png" group-title="香港频道",无线新闻台 83（1080i）
+#EXTINF:-1 tvg-name="无线新闻" tvg-id="225" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/TVBNews.png" group-title="香港频道",无线新闻台 83（1080i）
 https://cdn.qd.je/163189/wxxw
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/Pearl.png" group-title="香港频道",明珠台 84（1080i）
 https://cdn.qd.je/163189/mzt

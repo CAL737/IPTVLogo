@@ -1,0 +1,1112 @@
+EPG ID                    频道名称 (display-name)
+------------------------------------------------------------
+SUPER FREE                SUPER FREE
+SUPER獎門人                  SUPER獎門人
+愛．回家SUPER煲                愛．回家SUPER煲
+SUPER識食                   SUPER識食
+SUPER FUN                 SUPER FUN
+SUPER Music               SUPER Music
+SUPER驚                    SUPER驚
+SUPER煲劇                   SUPER煲劇
+SUPER亞視劇                  SUPER亞視劇
+真情SUPER煲                  真情SUPER煲
+SUPER Sports              SUPER Sports
+myTV SUPER 18台            myTV SUPER 18台
+黃金翡翠台                     黃金翡翠台
+翡翠台                       翡翠台
+TVB Plus                  TVB Plus
+無綫新聞台                     無綫新聞台
+明珠台                       明珠台
+千禧經典台                     千禧經典台
+亞洲劇台                      亞洲劇台
+華語劇台                      華語劇台
+黃金華劇台                     黃金華劇台
+娛樂新聞台                     娛樂新聞台
+戲曲台                       戲曲台
+SUPER Kids Channel        SUPER Kids Channel
+ZooMoo                    ZooMoo
+Nickelodeon               Nickelodeon
+Nick Jr                   Nick Jr
+粵語片台                      粵語片台
+美亞電影台                     美亞電影台
+Thrill                    Thrill
+天映經典頻道                    天映經典頻道
+中國電影頻道                    中國電影頻道
+ROCK Action               ROCK Action
+PopC                      PopC
+Action Hollywood Movies   Action Hollywood Movies
+Rialto Classic Movies     Rialto Classic Movies
+KIX                       KIX
+TRACE Sport Stars         TRACE Sport Stars
+Love Nature HD            Love Nature HD
+Love Nature 4K            Love Nature 4K
+Global Trekker            Global Trekker
+Pet Club TV               Pet Club TV
+Globetrotter              Globetrotter
+Docsville                 Docsville
+Wild Stuff                Wild Stuff
+ROCK綜藝娛樂                  ROCK綜藝娛樂
+ROCK X Stream             ROCK X Stream
+tvN                       tvN
+無線衛星亞洲台                   無線衛星亞洲台
+創世電視                      創世電視
+FashionBox                FashionBox
+中央電視台綜合頻道                 中央電視台綜合頻道
+CGTN 記錄頻道                 CGTN 記錄頻道
+CGTN 英語頻道                 CGTN 英語頻道
+東方衛視國際頻道                  東方衛視國際頻道
+中國中央電視台中文國際頻道             中國中央電視台中文國際頻道
+中國中央電視台娛樂頻道               中國中央電視台娛樂頻道
+中國中央電視台戲曲頻道               中國中央電視台戲曲頻道
+雲南瀾湄國際衛視                  雲南瀾湄國際衛視
+安徽廣播電視台國際頻道               安徽廣播電視台國際頻道
+北京電視台國際頻道                 北京電視台國際頻道
+福建海峽衛視國際頻道                福建海峽衛視國際頻道
+湖南電視台國際頻道                 湖南電視台國際頻道
+江蘇電視台國際頻道                 江蘇電視台國際頻道
+廣東廣播電視台大灣區衛視頻道            廣東廣播電視台大灣區衛視頻道
+浙江電視台國際頻道                 浙江電視台國際頻道
+深圳衛視國際頻道                  深圳衛視國際頻道
+that's 70s                that's 70s
+that's 80s                that's 80s
+that's Rock               that's Rock
+that's 90s00s             that's 90s00s
+Concerto                  Concerto
+TRACE Urban               TRACE Urban
+NewTV古裝劇場                 NewTV古裝劇場
+New TV科教                  New TV科教
+NewTV養生                   NewTV養生
+NewTV功夫                   NewTV功夫
+無線衛星新聞台                   無線衛星新聞台
+亞洲新聞台                     亞洲新聞台
+半島電視台英語頻道                 半島電視台英語頻道
+France 24                 France 24
+DW                        DW
+NHK World-Japan           NHK World-Japan
+Arirang TV                Arirang TV
+NewsWorld                 NewsWorld
+The Indonesia Channel     The Indonesia Channel
+myTV SUPER直播足球2台          myTV SUPER直播足球2台
+myTV SUPER直播足球3台          myTV SUPER直播足球3台
+myTV SUPER直播足球4台          myTV SUPER直播足球4台
+myTV SUPER直播足球5台          myTV SUPER直播足球5台
+myTV SUPER直播足球6台          myTV SUPER直播足球6台
+myTV SUPER直播足球7台          myTV SUPER直播足球7台
+測試頻道                      測試頻道
+Viu 頻道                    Viu 頻道
+Now華劇台                    Now華劇台
+NowJelli                  NowJelli
+HBO Hits                  HBO Hits
+HBO Family                HBO Family
+CINEMAX                   CINEMAX
+HBO Signature             HBO Signature
+HBO                       HBO
+MOVIE MOVIE               MOVIE MOVIE
+HITS MOVIES               HITS MOVIES
+Now 爆谷台                   Now 爆谷台
+Now爆谷星影台                  Now爆谷星影台
+Animax                    Animax
+KBS World                 KBS World
+熊貓 TV                     熊貓 TV
+Discovery Asia            Discovery Asia
+Discovery Channel         Discovery Channel
+動物星球頻道                    動物星球頻道
+Discovery 科學頻道            Discovery 科學頻道
+DMAX                      DMAX
+TLC旅遊生活頻道                 TLC旅遊生活頻道
+Love Nature               Love Nature
+BBC Earth                 BBC Earth
+戶外頻道                      戶外頻道
+罪案 + 偵緝                   罪案 + 偵緝
+HISTORY                   HISTORY
+CNN 國際新聞網絡                CNN 國際新聞網絡
+CNBC                      CNBC
+BBC News                  BBC News
+Bloomberg Television      Bloomberg Television
+Sky News                  Sky News
+DW (English)              DW (English)
+euronews                  euronews
+NHK WORLD-JAPAN           NHK WORLD-JAPAN
+RT                        RT
+中國環球電視網                   中國環球電視網
+Now直播台                    Now直播台
+Now新聞台                    Now新聞台
+Now財經台                    Now財經台
+Now報價台                    Now報價台
+鳳凰衛視資訊台                   鳳凰衛視資訊台
+Cartoon Network           Cartoon Network
+CBeebies                  CBeebies
+Moonbug                   Moonbug
+Nick Jr.                  Nick Jr.
+BBC Lifestyle             BBC Lifestyle
+AXN                       AXN
+HITS                      HITS
+ROCK Entertainment        ROCK Entertainment
+Lifetime                  Lifetime
+Food Network              Food Network
+亞洲美食台                     亞洲美食台
+中天亞洲台                     中天亞洲台
+深圳衛視                      深圳衛視
+CCTV-1                    CCTV-1
+CCTV-4                    CCTV-4
+大灣區衛視                     大灣區衛視
+中央電視台新聞頻道                 中央電視台新聞頻道
+鳳凰衛視中文台                   鳳凰衛視中文台
+三沙衛視                      三沙衛視
+ABC Australia             ABC Australia
+Now Sports 4K 1           Now Sports 4K 1
+Now Sports 4K 2           Now Sports 4K 2
+Now Sports 4K 3           Now Sports 4K 3
+Now Sports 615            Now Sports 615
+Now Sports 4K 616         Now Sports 4K 616
+Now Sports 4K 617         Now Sports 4K 617
+Now Sports 618            Now Sports 618
+Now Sports 619            Now Sports 619
+Now Sports Premier League TV Now Sports Premier League TV
+Now Sports 英超1台           Now Sports 英超1台
+Now Sports 英超2台           Now Sports 英超2台
+Now Sports 英超3台           Now Sports 英超3台
+Now Sports 英超4台           Now Sports 英超4台
+Now Sports 英超5台           Now Sports 英超5台
+Now Sports 英超6台           Now Sports 英超6台
+Now Sports 英超7台           Now Sports 英超7台
+Now Sports 精選             Now Sports 精選
+Now Sports 1              Now Sports 1
+Now Sports 2              Now Sports 2
+Now Sports 3              Now Sports 3
+Now Sports 4              Now Sports 4
+Now Sports 5              Now Sports 5
+Now Sports 6              Now Sports 6
+Now Sports 7              Now Sports 7
+beIN SPORTS 1             beIN SPORTS 1
+beIN SPORTS 2             beIN SPORTS 2
+曼聯電視頻道                    曼聯電視頻道
+Now Sports 641            Now Sports 641
+NBA TV                    NBA TV
+beIN SPORTS 3             beIN SPORTS 3
+beIN SPORTS 4             beIN SPORTS 4
+beIN SPORTS 5             beIN SPORTS 5
+beIN SPORTS 6             beIN SPORTS 6
+Now Sports 647            Now Sports 647
+Now Sports 651            Now Sports 651
+Now Sports 652            Now Sports 652
+Now668                    Now668
+Cricbuzz                  Cricbuzz
+Premier Sports            Premier Sports
+Now Sports Plus           Now Sports Plus
+Now Golf 2                Now Golf 2
+Now Golf 3                Now Golf 3
+Lucky 688                 Lucky 688
+NHK World Premium         NHK World Premium
+TV5MONDE Style            TV5MONDE Style
+TV5MONDE ASIE             TV5MONDE ASIE
+France 24 (French)        France 24 (French)
+GMA Pinoy TV              GMA Pinoy TV
+GMA Life TV               GMA Life TV
+GMA News TV               GMA News TV
+TFC                       TFC
+Sony TV (India)           Sony TV (India)
+Sony MAX                  Sony MAX
+Sony SAB                  Sony SAB
+MTV India                 MTV India
+COLORS                    COLORS
+Zee Cinema International  Zee Cinema International
+Zee TV                    Zee TV
+Zee News                  Zee News
+Star Gold                 Star Gold
+STAR PLUS                 STAR PLUS
+Star Bharat               Star Bharat
+amc電影台                    amc電影台
+Asian Food Network亞洲美食頻道  Asian Food Network亞洲美食頻道
+BBC NEWS                  BBC NEWS
+Bloomberg TV              Bloomberg TV
+CARTOONITO                CARTOONITO
+CARTOONITO(免費)            CARTOONITO(免費)
+CATCHPLAY電影台              CATCHPLAY電影台
+CinemaWorld頻道             CinemaWorld頻道
+CNEX紀實頻道                  CNEX紀實頻道
+CNN國際新聞台                  CNN國際新聞台
+CNN頭條新聞台(HLN)             CNN頭條新聞台(HLN)
+CN卡通頻道                    CN卡通頻道
+Discovery DMAX            Discovery DMAX
+Discovery EVE             Discovery EVE
+Discovery科學台(Science)     Discovery科學台(Science)
+DreamWorks                DreamWorks
+DreamWorks(免費)            DreamWorks(免費)
+EUROSPORT                 EUROSPORT
+Ginx TV電競頻道               Ginx TV電競頻道
+Hami WBC1台                Hami WBC1台
+Hami足球1台                  Hami足球1台
+Hami足球2台                  Hami足球2台
+Hami體育1台                  Hami體育1台
+Hami體育1台(免費)              Hami體育1台(免費)
+Hami體育2台                  Hami體育2台
+HGTV居家樂活頻道                HGTV居家樂活頻道
+History                   History
+INULTRA                   INULTRA
+LiveABC互動英語頻道             LiveABC互動英語頻道
+LOVE NATURE               LOVE NATURE
+Mezzo Live                Mezzo Live
+Mezzo Live(免費)            Mezzo Live(免費)
+momo綜合台                   momo綜合台
+momo親子台                   momo親子台
+NHK新聞資訊台                  NHK新聞資訊台
+PET CLUB TV               PET CLUB TV
+Trace Urban               Trace Urban
+Travel Channel            Travel Channel
+TVBS                      TVBS
+TVBS新聞台                   TVBS新聞台
+TVBS歡樂台                   TVBS歡樂台
+TVBS精采台                   TVBS精采台
+Warner TV                 Warner TV
+三立iNEWS                   三立iNEWS
+三立新聞台                     三立新聞台
+中天新聞台                     中天新聞台
+中央氣象署影音頻道                 中央氣象署影音頻道
+中職明星賽上帝視角                 中職明星賽上帝視角
+中職明星賽主審視角                 中職明星賽主審視角
+中職明星賽髮香視角                 中職明星賽髮香視角
+中視主頻                      中視主頻
+中視新聞台                     中視新聞台
+中視經典台                     中視經典台
+中視菁采台                     中視菁采台
+亞洲旅遊台                     亞洲旅遊台
+人間衛視                      人間衛視
+八大精彩台                     八大精彩台
+八大綜藝台                     八大綜藝台
+公視戲劇                      公視戲劇
+博斯無限二台                    博斯無限二台
+博斯無限台                     博斯無限台
+博斯網球台                     博斯網球台
+博斯運動一台                    博斯運動一台
+博斯運動二台                    博斯運動二台
+博斯高球一台                    博斯高球一台
+博斯魅力網                     博斯魅力網
+古典音樂台                     古典音樂台
+台視主頻                      台視主頻
+台視新聞台                     台視新聞台
+台視綜合台                     台視綜合台
+台視財經台                     台視財經台
+國會頻道1                     國會頻道1
+國會頻道2                     國會頻道2
+大愛電視                      大愛電視
+寰宇新聞                      寰宇新聞
+尼克兒童頻道                    尼克兒童頻道
+影迷數位紀實台                   影迷數位紀實台
+影迷數位電影台                   影迷數位電影台
+愛爾達寵物運動台                  愛爾達寵物運動台
+愛爾達影劇台                    愛爾達影劇台
+愛爾達日韓台                    愛爾達日韓台
+愛爾達綜合台                    愛爾達綜合台
+愛爾達體育1台                   愛爾達體育1台
+愛爾達體育2台                   愛爾達體育2台
+愛爾達體育3台                   愛爾達體育3台
+愛爾達體育4台                   愛爾達體育4台
+愛爾達體育MAX1台                愛爾達體育MAX1台
+愛爾達體育MAX2台                愛爾達體育MAX2台
+愛爾達體育MAX3台                愛爾達體育MAX3台
+愛爾達體育MAX4台                愛爾達體育MAX4台
+東森新聞台                     東森新聞台
+東森財經台                     東森財經台
+民視台灣台                     民視台灣台
+民視影劇台                     民視影劇台
+民視新聞台                     民視新聞台
+民視無線台                     民視無線台
+民視第一台                     民視第一台
+民視綜藝台                     民視綜藝台
+空中英語教室                    空中英語教室
+罪案偵緝頻道                    罪案偵緝頻道
+罪案偵緝頻道(免費)                罪案偵緝頻道(免費)
+華藝中文台                     華藝中文台
+華視主頻                      華視主頻
+華視新聞資訊台                   華視新聞資訊台
+豬哥亮歌廳秀                    豬哥亮歌廳秀
+達文西頻道                     達文西頻道
+采昌影劇台                     采昌影劇台
+金光布袋戲                     金光布袋戲
+鏡電視新聞台                    鏡電視新聞台
+電影原聲台CMusic               電影原聲台CMusic
+靖天中文台                     靖天中文台
+靖天日本台                     靖天日本台
+靖天育樂台                     靖天育樂台
+靖洋戲劇台                     靖洋戲劇台
+非凡商業台                     非凡商業台
+非凡新聞台                     非凡新聞台
+麥卡貝綜藝                     麥卡貝綜藝
+麥哲倫頻道                     麥哲倫頻道
+龍華偶像                      龍華偶像
+龍華影劇                      龍華影劇
+龍華戲劇                      龍華戲劇
+龍華洋片台                     龍華洋片台
+龍華電影                      龍華電影
+TV1                       TV1
+TV2                       TV2
+RIA                       RIA
+PRIMA                     PRIMA
+OASIS                     OASIS
+CITRA                     CITRA
+RANIA                     RANIA
+AURA                      AURA
+TV ALHIJRAH               TV ALHIJRAH
+Zee Cinema                Zee Cinema
+TVS                       TVS
+TV OKEY                   TV OKEY
+VAANAVIL                  VAANAVIL
+VINMEEN                   VINMEEN
+SUN TV                    SUN TV
+SUN MUSIC                 SUN MUSIC
+ADITHYA                   ADITHYA
+Sun News                  Sun News
+KTV                       KTV
+Sun Life                  Sun Life
+STAR VIJAY                STAR VIJAY
+COLORS TAMIL              COLORS TAMIL
+ZEE TAMIL                 ZEE TAMIL
+THANGATHIRAI              THANGATHIRAI
+iQIYI                     iQIYI
+TVB CLASSIC               TVB CLASSIC
+AEC                       AEC
+QJ                        QJ
+CELESTIAL                 CELESTIAL
+TVBJ                      TVBJ
+AOD                       AOD
+CTI ASIA                  CTI ASIA
+TVB E-NEWS                TVB E-NEWS
+TVB XING HE               TVB XING HE
+TVBS ASIA                 TVBS ASIA
+CCM                       CCM
+PHOENIX                   PHOENIX
+PHOENIX NEWS              PHOENIX NEWS
+HUA HEE DAI               HUA HEE DAI
+CCTV4                     CCTV4
+KBSW                      KBSW
+Astro Daebak              Astro Daebak
+KPLUS                     KPLUS
+BOO                       BOO
+Astro Showtime            Astro Showtime
+Astro FAM Time            Astro FAM Time
+SHOWCASE                  SHOWCASE
+Rock Action               Rock Action
+Rock X Stream             Rock X Stream
+tvN Movies                tvN Movies
+AWANI                     AWANI
+Bernama TV                Bernama TV
+CGTN                      CGTN
+CNN                       CNN
+AL JAZEERA                AL JAZEERA
+CNA                       CNA
+BLOOMBERG  TV             BLOOMBERG  TV
+ABC AUSTRALIA             ABC AUSTRALIA
+FRANCE24                  FRANCE24
+DISCOVERY                 DISCOVERY
+DISCOVERY ASIA            DISCOVERY ASIA
+CGTN Documentary          CGTN Documentary
+TUTOR TV                  TUTOR TV
+CERIA                     CERIA
+CARTOON NTWK              CARTOON NTWK
+NICKELODEON               NICKELODEON
+NICK JR                   NICK JR
+Moonbug Kids              Moonbug Kids
+Blippi & Friends          Blippi & Friends
+HITS NOW                  HITS NOW
+TLC                       TLC
+AFN                       AFN
+CI                        CI
+HGTV                      HGTV
+ARENA                     ARENA
+ARENA 2                   ARENA 2
+ARENA BOLA                ARENA BOLA
+ARENA BOLA 2              ARENA BOLA 2
+Astro Grandstand          Astro Grandstand
+Astro Premier League      Astro Premier League
+Astro Premier League 2    Astro Premier League 2
+Astro Football            Astro Football
+Astro Badminton           Astro Badminton
+Astro Sports Plus         Astro Sports Plus
+Astro Tennis              Astro Tennis
+beIN SPORTS               beIN SPORTS
+bEIN SPORTS 3             bEIN SPORTS 3
+W-Sport                   W-Sport
+GOLF CHANNEL              GOLF CHANNEL
+RTHK31                    RTHK31
+RTHK32                    RTHK32
+RTHK33                    RTHK33
+RTHK34                    RTHK34
+RTHK35                    RTHK35
+HOY 76                    HOY 76
+HOY 77                    HOY 77
+HOY 78                    HOY 78
+FIBA U17 世界盃女子籃球賽季軍賽 - 加拿大 對 澳洲 (英文評述) (晚上11:10) FIBA U17 世界盃女子籃球賽季軍賽 - 加拿大 對 澳洲 (英文評述) (晚上11:10)
+Zee Thirai                Zee Thirai
+FashionTV HD              FashionTV HD
+Fox News Channel          Fox News Channel
+Phoenix Chinese Channel HD Phoenix Chinese Channel HD
+FIGHT SPORTS HD           FIGHT SPORTS HD
+ETTV ASIA HD              ETTV ASIA HD
+HISTORY HD                HISTORY HD
+Lifetime HD               Lifetime HD
+COLORS Tamil HD           COLORS Tamil HD
+TVBS Asia                 TVBS Asia
+Cbeebies HD               Cbeebies HD
+beIN Sports 3             beIN Sports 3
+Sun Music                 Sun Music
+CNN HD                    CNN HD
+KTV HD                    KTV HD
+beIN Sports 2 HD          beIN Sports 2 HD
+TVB Xing He               TVB Xing He
+Vannathirai               Vannathirai
+Cinema One Global         Cinema One Global
+Hub Sports 2 HD           Hub Sports 2 HD
+The Filipino Channel      The Filipino Channel
+Hub Premier 2 (HD)        Hub Premier 2 (HD)
+Hub Sports 5 HD           Hub Sports 5 HD
+AXN HD                    AXN HD
+Sun TV                    Sun TV
+Zee Tamil                 Zee Tamil
+ANC                       ANC
+Karisma                   Karisma
+Bloomberg Quicktake       Bloomberg Quicktake
+Hub Sports 4 HD           Hub Sports 4 HD
+DW (Deutsch)              DW (Deutsch)
+Preview Channel           Preview Channel
+Phoenix InfoNews Channel HD Phoenix InfoNews Channel HD
+Kalaignar TV              Kalaignar TV
+HITS MOVIES HD            HITS MOVIES HD
+Cinemax HD                Cinemax HD
+NHK World Premium HD      NHK World Premium HD
+HBO HD                    HBO HD
+Nickelodeon Asia HD       Nickelodeon Asia HD
+Hub Sports 3 HD           Hub Sports 3 HD
+France24                  France24
+Bloomberg Television HD   Bloomberg Television HD
+Citra Entertainment       Citra Entertainment
+Vijay TV                  Vijay TV
+Asianet                   Asianet
+Animax HD                 Animax HD
+Hub Sensasi               Hub Sensasi
+SPOTV                     SPOTV
+KBS World HD              KBS World HD
+TestChannel 996           TestChannel 996
+Euronews HD               Euronews HD
+HBO Hits HD               HBO Hits HD
+CTI TV HD                 CTI TV HD
+Hub VVDrama               Hub VVDrama
+BBC Earth HD              BBC Earth HD
+Hub Sports 6              Hub Sports 6
+TVBS-NEWS                 TVBS-NEWS
+DreamWorks Channel HD     DreamWorks Channel HD
+HBO Signature HD          HBO Signature HD
+CNBC HD                   CNBC HD
+TV5MONDE HD               TV5MONDE HD
+Hub Sports 1  HD          Hub Sports 1  HD
+SONY MAX                  SONY MAX
+Sky News HD               Sky News HD
+beIN Sports HD            beIN Sports HD
+TestChannel2              TestChannel2
+NHK WORLD - JAPAN         NHK WORLD - JAPAN
+BBC World News HD         BBC World News HD
+Hub Premier 1             Hub Premier 1
+Hits HD                   Hits HD
+Sony Entertainment Television Sony Entertainment Television
+Asianet Movies            Asianet Movies
+Astro Warna               Astro Warna
+SPOTV2                    SPOTV2
+Dragon TV                 Dragon TV
+Travelxp HD               Travelxp HD
+ADITHYA TV                ADITHYA TV
+Hub E City HD             Hub E City HD
+Celestial Movies HD       Celestial Movies HD
+Crime + Investigation HD  Crime + Investigation HD
+HBO Family HD             HBO Family HD
+TVB Jade HD               TVB Jade HD
+Discovery HD              Discovery HD
+TestChannel 993..         TestChannel 993..
+Cricbuzz 2                Cricbuzz 2
+Hub Ruyi                  Hub Ruyi
+Test 998                  Test 998
+HITSNOW                   HITSNOW
+Channel 251               Channel 251
+Hub Sports 7              Hub Sports 7
+FIFA World Cup CH02       FIFA World Cup CH02
+tvN HD                    tvN HD
+FIFA World Cup CH03       FIFA World Cup CH03
+FIFA World Cup CH04       FIFA World Cup CH04
+Channel 5                 Channel 5
+Channel 8                 Channel 8
+Channel U                 Channel U
+Suria                     Suria
+Vasantham                 Vasantham
+FIFA World Cup CH01       FIFA World Cup CH01
+LIVE 1                    LIVE 1
+MasterChef                MasterChef
+Deal or No Deal           Deal or No Deal
+Fear Factor               Fear Factor
+River Monsters            River Monsters
+FoodON                    FoodON
+That's 80s                That's 80s
+That's 70s                That's 70s
+That's Rock               That's Rock
+Filem Mantap              Filem Mantap
+Drama Hebat               Drama Hebat
+Vijay Takkar              Vijay Takkar
+FIFA+                     FIFA+
+Kartoon Channel!          Kartoon Channel!
+TG Junior                 TG Junior
+CinemaWorld               CinemaWorld
+Astro Sensasi HD          Astro Sensasi HD
+Astro Warna HD            Astro Warna HD
+BBC Lifestyle HD          BBC Lifestyle HD
+BBC News HD               BBC News HD
+beIN SPORTS HD            beIN SPORTS HD
+beIN SPORTS 2 HD          beIN SPORTS 2 HD
+beIN SPORTS 3 HD          beIN SPORTS 3 HD
+beIN SPORTS 4 HD          beIN SPORTS 4 HD
+beIN SPORTS 5 HD          beIN SPORTS 5 HD
+CBeebies HD               CBeebies HD
+CTI Asia HD               CTI Asia HD
+DreamWorks HD             DreamWorks HD
+ETTV Asia HD              ETTV Asia HD
+Fox News Channel HD       Fox News Channel HD
+HGTV HD                   HGTV HD
+HITS HD                   HITS HD
+Hub Premier 2             Hub Premier 2
+Hub Premier 3             Hub Premier 3
+Hub Premier 4             Hub Premier 4
+Hub Premier 5             Hub Premier 5
+Hub Premier 6             Hub Premier 6
+Hub Premier 7             Hub Premier 7
+Hub Premier 8             Hub Premier 8
+Hub Premier 9             Hub Premier 9
+Hub Premier 10            Hub Premier 10
+Hub Premier 11            Hub Premier 11
+Hub Sports 1 HD           Hub Sports 1 HD
+Hub Sports 6 HD           Hub Sports 6 HD
+Hub Sports 7 HD           Hub Sports 7 HD
+Hub Sports 8 HD           Hub Sports 8 HD
+Hub VV Drama HD           Hub VV Drama HD
+Nick Jr. HD               Nick Jr. HD
+1                         CCTV1
+2                         CCTV2
+3                         CCTV3
+4                         CCTV4
+5                         CCTV5
+6                         CCTV5+
+7                         CCTV6
+8                         CCTV7
+9                         CCTV8
+10                        CCTV9
+11                        CCTV10
+12                        CCTV11
+13                        CCTV12
+14                        CCTV13
+15                        CCTV14
+16                        CCTV15
+17                        CCTV16
+18                        CCTV17
+19                        CCTV4欧洲
+20                        CCTV4美洲
+21                        CGTN西语
+22                        CGTN法语
+23                        CGTN俄语
+24                        CGTN阿语
+25                        CGTN
+26                        CCTV4K
+27                        CCTV8K
+28                        CCTVNews
+29                        CGTN纪录
+77                        重庆卫视
+78                        四川卫视
+79                        贵州卫视
+80                        东方卫视
+81                        湖南卫视
+82                        广东卫视
+83                        深圳卫视
+84                        天津卫视
+85                        湖北卫视
+86                        辽宁卫视
+87                        安徽卫视
+88                        浙江卫视
+89                        山东卫视
+90                        北京卫视
+91                        江苏卫视
+92                        黑龙江卫视
+93                        河北卫视
+94                        云南卫视
+95                        江西卫视
+96                        东南卫视
+97                        海南卫视
+98                        吉林卫视
+99                        甘肃卫视
+100                       河南卫视
+101                       内蒙古卫视
+102                       陕西卫视
+103                       广西卫视
+104                       青海卫视
+105                       新疆卫视
+106                       西藏卫视
+107                       厦门卫视
+108                       宁夏卫视
+109                       山西卫视
+110                       兵团卫视
+111                       康巴卫视
+112                       延边卫视
+113                       四川经济
+114                       四川文化旅游
+115                       四川新闻
+116                       四川影视文艺
+117                       四川妇女儿童
+118                       四川科教
+119                       四川乡村
+120                       精彩影视
+121                       重庆新闻
+122                       重庆红叶
+123                       重庆影视剧
+124                       重庆文体娱乐
+125                       重庆少儿
+126                       重庆红岩文化
+127                       重庆社会与法
+128                       重庆新农村
+129                       重庆移动
+130                       北京新闻
+131                       北京影视
+132                       北京文艺
+133                       北京财经
+134                       北京生活
+135                       卡酷少儿
+136                       北京纪实科教
+137                       北京体育休闲
+138                       第一剧场
+139                       风云剧场
+140                       怀旧剧场
+141                       世界地理
+142                       风云音乐
+143                       兵器科技
+144                       风云足球
+145                       高尔夫网球
+146                       女性时尚
+147                       央视文化精品
+148                       央视台球
+149                       求索纪录
+150                       求索科学
+151                       CETV1
+152                       CETV2
+153                       CETV3
+154                       CETV4
+155                       广东珠江
+156                       广东体育
+157                       广东公共
+158                       广东新闻
+159                       嘉佳卡通
+160                       广东经济科教
+161                       广东综艺
+162                       广东影视
+163                       广东国际
+164                       广东少儿
+165                       岭南戏曲
+166                       大湾区卫视
+167                       广东移动
+168                       金鹰卡通
+169                       金鹰纪实
+170                       五星体育
+171                       求索生活
+172                       新视觉
+173                       快乐垂钓
+174                       东方财经
+175                       动漫秀场
+176                       劲爆体育
+177                       吉林教育
+178                       都市剧场
+179                       乐游
+180                       CHC动作电影
+181                       CHC家庭影院
+182                       CHC影迷电影
+183                       多彩文体
+184                       求索动物
+185                       金色学堂
+186                       武侠剧场
+187                       法治天地
+188                       生活时尚
+189                       翡翠台
+190                       明珠台
+191                       光影
+192                       CCTV娱乐
+193                       凤凰中文
+194                       凤凰资讯
+195                       东方影视
+196                       CNC中文
+197                       CNC英文
+198                       第一财经
+199                       上海新闻综合
+200                       钱江都市
+201                       浙江经济生活
+202                       浙江教科影视
+203                       浙江民生休闲
+204                       浙江新闻
+205                       浙江少儿
+206                       浙江国际
+207                       之江纪录
+208                       优漫卡通
+209                       哈哈炫动
+210                       广西都市
+211                       广西影视
+212                       广西新闻
+213                       广西国际
+214                       江苏城市
+215                       江苏国际
+216                       江苏教育
+217                       江苏影视
+218                       江苏综艺
+219                       江苏新闻
+220                       江苏体育休闲
+221                       山东教育
+222                       游戏风云
+223                       TVB Plus
+224                       美亚电影
+225                       无线新闻
+226                       老故事
+227                       文物宝库
+228                       早期教育
+229                       武术世界
+230                       梨园频道
+231                       4K电影
+232                       汽摩
+233                       环球奇观
+234                       现代女性
+235                       天元围棋
+236                       国学
+237                       发现之旅
+238                       环球旅游
+239                       四海钓鱼
+240                       香港卫视
+241                       书画
+242                       爱上4K
+243                       安徽经济生活
+244                       安徽影视
+245                       安徽农业科教
+246                       安徽公共
+247                       安徽综艺体育
+248                       萌宠TV
+249                       江西新闻
+250                       江西少儿
+251                       江西公共农业
+252                       足球
+253                       江西都市
+254                       江西经济生活
+255                       中国天气
+256                       陕西新闻资讯
+257                       陕西都市青春
+258                       陕西银龄
+259                       陕西秦腔
+260                       陕西体育休闲
+261                       农林卫视
+262                       亚洲新闻
+263                       上海都市
+264                       中华特产
+265                       重庆党员教育
+266                       福建综合
+267                       精选
+268                       福建新闻
+272                       福建文旅体育
+273                       福建少儿
+274                       海峡卫视
+275                       辽宁公共
+276                       辽宁北方
+277                       辽宁影视剧
+278                       辽宁教育青少
+279                       辽宁生活
+280                       辽宁经济
+281                       辽宁都市
+282                       精彩电影
+283                       新动漫
+284                       凤凰香港
+285                       4K演唱会
+286                       海南自贸
+287                       海南新闻
+288                       海南社会与法
+289                       三沙卫视
+290                       海南文旅
+291                       海南少儿
+292                       黑龙江少儿
+293                       黑龙江农业科教
+294                       黑龙江新闻法治
+295                       黑龙江都市
+296                       黑龙江文体
+297                       黑龙江影视
+298                       厦门综合
+299                       厦门海峡
+300                       湖北经视
+301                       湖北综合
+302                       湖北垄上
+304                       湖北影视
+305                       湖北教育
+307                       武汉新闻综合
+308                       武汉电视剧
+309                       武汉都市文体
+310                       武汉经济
+311                       武汉文体
+312                       武汉外语
+313                       武汉教育
+314                       武汉少儿
+315                       4K时尚
+316                       吉林都市
+317                       吉林影视
+318                       吉林生活
+319                       广东民生
+320                       吉林乡村
+321                       河南都市
+322                       河南民生
+323                       河南法治
+324                       河南电视剧
+325                       河南新闻
+326                       河南公共
+327                       河南乡村
+328                       魅力时尚
+329                       睛彩中原
+330                       红色影院
+331                       湖南经视
+332                       湖南都市
+333                       湖南娱乐
+334                       湖南电影
+335                       湖南电视剧
+336                       湖南爱晚
+337                       喜剧影院
+338                       云南都市
+339                       云南娱乐
+340                       云南影视
+341                       云南康旅
+342                       动作影院
+344                       黑莓电影
+345                       黑莓动画
+347                       汕头新闻综合
+348                       汕头经济生活
+349                       维吾尔语新闻综合
+350                       动作电影
+351                       重温经典
+352                       天津新闻
+353                       天津文艺
+354                       天津影视
+355                       潮妈辣婆
+356                       哒啵赛事
+357                       哒啵电竞
+358                       军事评论
+359                       炫舞未来
+360                       古装剧场
+361                       军旅剧场
+362                       家庭剧场
+363                       爱情喜剧
+364                       热播精选
+365                       明星大片
+366                       惊悚悬疑
+367                       谍战大剧
+368                       烽烟剧场
+369                       精品大剧
+370                       精品体育
+371                       精品萌宠
+372                       天津都市
+373                       中国功夫
+374                       怡伴健康
+375                       北京国际
+376                       淘Baby
+377                       淘电影
+378                       淘娱乐
+379                       4K宝贝
+380                       淘剧场
+381                       山东新闻
+382                       山东农科
+383                       山东齐鲁
+384                       山东文旅
+385                       山东体育休闲
+386                       山东生活
+387                       山东综艺
+388                       山东少儿
+389                       睛彩青少
+390                       睛彩竞技
+391                       睛彩篮球
+392                       睛彩广场舞
+393                       河北经济生活
+394                       河北都市
+395                       河北文旅体育
+396                       河北三农
+397                       广西综艺旅游
+399                       河北少儿科教
+400                       贵州公共
+401                       贵州影视文艺
+402                       贵州大众生活
+403                       贵州法制
+404                       贵州科教健康
+405                       天津体育
+406                       湖南国际
+407                       宁夏公共
+408                       深圳电视剧
+409                       4K电视剧
+410                       深圳财经
+411                       深圳移动
+412                       深圳国际
+413                       山西文体生活
+414                       山西经济与科技
+415                       山西社会与法治
+416                       山西影视
+417                       黄河电视台
+419                       上海教育
+420                       峨眉电影
+421                       4K纪实
+422                       爱看导视
+423                       iHOT爱赛车
+424                       中国交通
+425                       4K健身
+427                       超级综艺
+428                       超级电影
+429                       超级电视剧
+430                       农业致富
+431                       东北热剧
+432                       欢乐剧场
+433                       福建教育
+434                       4K美食
+435                       卫生健康
+436                       电视指南
+437                       中学生
+438                       CMC北美
+439                       CMC香港
+440                       台视
+441                       民视
+442                       华视
+443                       中视
+444                       RTHK31
+445                       RTHK32
+446                       RTHK33
+447                       RTHK34
+448                       RTHK35
+449                       HOY76
+450                       HOY77
+451                       HOY78
+452                       藏语卫视
+453                       西藏影视文化
+455                       南京新闻综合
+456                       南京教育科技
+457                       南京十八生活
+458                       南京文旅纪录
+459                       iHOT爱喜剧
+460                       南京少儿
+461                       iHOT爱科幻
+462                       杭州综合
+463                       西湖明珠
+464                       杭州生活
+465                       杭州影视
+466                       杭州青少体育
+467                       杭州导视
+468                       成都新闻综合
+469                       成都经济资讯
+470                       成都都市生活
+471                       成都影视文艺
+472                       成都公共
+473                       成都少儿
+474                       西安新闻综合
+475                       西安都市
+476                       西安商务资讯
+477                       西安影视
+478                       西安丝路
+479                       纬来综合台
+480                       纬来戏剧台
+481                       TVBS新闻
+482                       纬来电影台
+483                       纬来体育台
+484                       纬来音乐台
+485                       纬来精彩台
+486                       苏州新闻综合
+487                       苏州社会经济
+488                       苏州文化生活
+489                       苏州生活资讯
+490                       柳州新闻综合
+491                       东森新闻
+492                       民视新闻台
+493                       无锡新闻综合
+494                       无锡都市资讯
+495                       无锡电视娱乐
+496                       无锡电视经济
+497                       无锡电视生活
+498                       常州综合
+499                       哈萨克语新闻综合
+500                       汉语综艺
+501                       维吾尔语影视
+502                       天津教育
+503                       宁夏经济
+504                       宁夏文旅
+505                       宁夏少儿
+506                       汉语经济生活
+507                       天映马来西亚
+508                       天映新加坡
+509                       天映印度尼西亚
+510                       天映经典
+511                       天映CM+
+512                       HBO频道
+513                       HBO温馨家庭
+514                       HBO强档巨献
+515                       HBO原创巨献
+516                       CINEMAX热门影院
+517                       家庭影院
+519                       澳视澳门
+520                       青岛新闻综合
+521                       青岛生活服务
+522                       青岛影视
+523                       青岛财经资讯
+524                       青岛都市
+525                       青岛教育
+526                       超级体育
+527                       欧美电影
+528                       辽宁体育休闲
+530                       深圳少儿
+531                       亚洲电影
+532                       深圳都市
+533                       全民热练
+534                       综合体育
+535                       吉林综艺文化
+536                       年代大剧
+537                       中视新闻台
+538                       甘肃少儿
+539                       甘肃公共应急
+540                       甘肃科教
+541                       甘肃文化影视
+542                       内蒙古新闻综合
+543                       内蒙古经济生活
+544                       内蒙古农牧
+545                       内蒙古文体娱乐
+546                       内蒙古少儿
+547                       蒙语卫视
+548                       青海经视
+549                       青海综合
+550                       青海都市
+551                       绍兴新闻综合
+552                       绍兴公共频道
+553                       绍兴文化影视
+554                       安多卫视
+555                       千禧经典台
+556                       亚洲剧台
+557                       华语剧台
+558                       TVB星河
+559                       PopC
+560                       少儿动漫
+561                       哈萨克语综艺
+562                       维吾尔语经济生活
+563                       汉语体育健康
+564                       星影
+565                       黄金翡翠台
+566                       海外剧场
+567                       南国都市4K
+568                       广州综合
+569                       广州新闻
+570                       iHOT爱玩具
+571                       iHOT爱浪漫
+572                       北京IPTV4K超清
+573                       热播剧场
+574                       经典电影
+575                       城市剧场
+576                       华数军旅剧场
+577                       华数古装剧场
+578                       iHOT爱体育
+579                       iHOT爱院线
+580                       iHOT爱谍战
+581                       iHOT爱幼教
+582                       iHOT爱历史
+583                       iHOT爱科学
+584                       iHOT爱旅行
+9999                      noepg
