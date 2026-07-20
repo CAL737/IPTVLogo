@@ -26,8 +26,6 @@ https://cdn.qd.je/163189.php?id=hoy78
 https://cdn.qd.je/163189/fct2
 #EXTINF:-1 tvg-id="189" tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/Jade.png" group-title="香港频道",翡翠台 广东有线版（1080i）
 https://cdn.qd.je/163189/fct
-#EXTINF:-1 tvg-id="189" tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/Jade.png" group-title="香港频道",翡翠台（模拟电视576i）
-http:///120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="223" tvg-name="TVB Plus" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/TVBPlus.png" group-title="香港频道",TVB Plus 82（1080i）
 https://cdn.qd.je/163189/tvbp
 #EXTINF:-1 tvg-id="225" tvg-name="无线新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/TVBNews.png" group-title="香港频道",无线新闻台 83（1080i）
