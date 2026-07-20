@@ -80,9 +80,9 @@ http://gxyd.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=2
 https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8
 
 #WebVTT
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/Jade.png" group-title="mytv",翡翠台(WebVTT字幕)
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/Jade.png" group-title="WebVTT",翡翠台(WebVTT字幕)
 https://cdn.qd.je/163189/fctvtt
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/Pearl.png" group-title="mytv",明珠台(WebVTT字幕)
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/Pearl.png" group-title="WebVTT",明珠台(WebVTT字幕)
 https://cdn.qd.je/163189/mztvtt
-#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/TVBPlus.png" group-title="mytv",TVB Plus(WebVTT字幕)
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/TVBPlus.png" group-title="WebVTT",TVB Plus(WebVTT字幕)
 https://cdn.qd.je/163189/tvbpvtt
