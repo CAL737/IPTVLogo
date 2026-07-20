@@ -1,5 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e2.xml.gz"
-
+#EXTM3U url-tvg="https://epg.cdn.loc.cc/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #凤凰卫视
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/PhoenixChinese.png" group-title="凤凰卫视",凤凰卫视中文台（1080i）
@@ -17,11 +16,11 @@ https://live.264788.xyz/channel/guangdongweishi4k?streamid=33aeafbb59f2bcb1877c3
 
 
 #香港频道
-#EXTINF:-1 tvg-name="HOY国际财经台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/HOY76.png" group-title="香港频道",HOY 76 （1080i）
+#EXTINF:-1 tvg-name="HOY 國際財經台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/HOY76.png" group-title="香港频道",HOY 76 （1080i）
 https://cdn.qd.je/163189.php?id=hoy76
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/HOY77.png" group-title="香港频道",HOY 77 （1080i）
+#EXTINF:-1 tvg-name="HOY77" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/HOY77.png" group-title="香港频道",HOY 77 （1080i）
 https://cdn.qd.je/163189.php?id=hoy
-#EXTINF:-1 tvg-name="HOY 资讯台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/HOY78.png" group-title="香港频道",HOY 78 （1080i）
+#EXTINF:-1 tvg-name="HOY78" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/HOY78.png" group-title="香港频道",HOY 78 （1080i）
 https://cdn.qd.je/163189.php?id=hoy78
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/Jade.png" group-title="香港频道",翡翠台 81（1080i）
 https://cdn.qd.je/163189/fct2
