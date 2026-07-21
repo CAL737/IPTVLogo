@@ -11,8 +11,6 @@ https://cdn.qd.je/163189/fhhk
 #4K频道
 #EXTINF:-1 tvg-id="189" tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/Jade.png" group-title="4K频道",翡翠台（4K）
 https://cdn.qd.je/163189/fct4k
-#EXTINF:-1 tvg-id="82" tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/GuangdongUHD.png" group-title="4K频道",广东卫视 （4K）
-https://live.264788.xyz/channel/guangdongweishi4k?streamid=33aeafbb59f2bcb1877c3a8229c0135b&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
 
 
 #香港频道
@@ -75,7 +73,7 @@ https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8
 #WebVTT
 #EXTINF:-1 tvg-id="189" tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/Jade.png" group-title="WebVTT",翡翠台(WebVTT字幕)
 https://cdn.qd.je/163189/fctvtt
-#EXTINF:-1 tvg-id="190" tvg-name="明珠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/Pearl.png" group-title="WebVTT",明珠台(WebVTT字幕)
-https://cdn.qd.je/163189/mztvtt
 #EXTINF:-1 tvg-id="223" tvg-name="TVB Plus" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/TVBPlus.png" group-title="WebVTT",TVB Plus(WebVTT字幕)
 https://cdn.qd.je/163189/tvbpvtt
+#EXTINF:-1 tvg-id="190" tvg-name="明珠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/CAL737/TVlogo/main/img/Pearl.png" group-title="WebVTT",明珠台(WebVTT字幕)
+https://cdn.qd.je/163189/mztvtt
